@@ -1,0 +1,53 @@
+.image {
+  object-fit: cover;
+  align-items: center;
+  margin-top: -500px;
+  margin-right: 200px;
+  margin-left: 700px;
+}
+.image-div {
+  margin-top: -50px;
+}
+.sec-but {
+  text-align: center;
+}
+button {
+  padding: 20px;
+  margin: 2px;
+  color: #fff;
+  background-color: #94543b;
+  border: 0px;
+  border-radius: 15px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.format-1 {
+  background-color: #c9995c;
+  font-size: 18px;
+  width: 400px;
+  height: 75px;
+  cursor: pointer;
+}
+.but-st {
+  background-color: #c5c4c2;
+  color: #695d3b;
+  font-size: 18px;
+  width: 400px;
+  height: 75px;
+}
+.format-2 {
+  background-color: #663b13;
+  font-size: 18px;
+  width: 325px;
+  height: 75px;
+  margin-left: 75px;
+  cursor: pointer;
+}
+.desc {
+  text-align: center;
+  font-family: "Lucida Sans Unicode";
+  padding-left: 450px;
+  margin-top: -450px;
+  margin-right: 200px;
+}
