@@ -64,9 +64,9 @@ button {
   cursor: pointer;
 }
 .desc {
-  text-align: center;
+  text-align: left;
   font-family: "Lucida Sans Unicode";
   padding-left: 450px;
-  margin-top: -450px;
+  margin-top: -650px;
   margin-right: 200px;
 }
