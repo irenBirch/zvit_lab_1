@@ -20,7 +20,11 @@
 .image-list li {
     margin-bottom: 10px; 
 }
-
+li{
+  text-align: center;
+  font-size: larger;
+  font-weight: bolder;
+}
 .image-list img {
     display: block;
     width: 100%; 
